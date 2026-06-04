@@ -1,4 +1,4 @@
-# Research Agent
+<img width="1280" height="383" alt="image" src="https://github.com/user-attachments/assets/8903f75e-d46b-42db-963a-4ac4ff3469b0" /># Research Agent
 
 Research agent built with LangGraph. Takes a topic, runs web searches, and saves a structured Markdown report.
 
@@ -102,6 +102,7 @@ Topic: квантовые компьютеры
 
 Report saved: reports/research_001.md
 --------------------------------------------------
+
 ```
 
 ## Agent logic (ReAct loop)
